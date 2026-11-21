@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "title": { "en": "Felix Tessera DSH plugins", "ru": "Плагины Felix Tessera для DSH" },
+  "title": { "en": "saylordevs DSH plugins", "ru": "Плагины saylordevs для DSH" },
   "description": {
-    "en": "Plugins for DeepSeek Harness by Felix Tessera.",
-    "ru": "Плагины для DeepSeek Harness от Felix Tessera."
+    "en": "Plugins for DeepSeek Harness by saylordevs.",
+    "ru": "Плагины для DeepSeek Harness от saylordevs."
   },
   "metadata": {
     "categories": {
@@ -22,7 +22,7 @@
         "ru": "Добавляет в ленту чата оценку стоимости каждого готового ответа. Нажмите на строку под ответом, чтобы увидеть разбивку на ввод, ввод из кэша и вывод с ценой за миллион токенов, моделью и признаком пикового или непикового тарифа. Плагин ничего не отправляет наружу и не добавляет ничего видимого модели."
       },
       "icon": "icons/token-cost.svg",
-      "author": "Felix Tessera",
+      "author": "saylordevs",
       "homepage": "https://github.com/saylordevs/dsh-plugin-token-cost#readme",
       "repository": {
         "url": "https://github.com/saylordevs/dsh-plugin-token-cost"

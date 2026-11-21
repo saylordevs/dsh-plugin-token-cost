@@ -4,7 +4,7 @@
   "description": "Shows the estimated money cost of each completed answer next to its token usage in the DeepSeek Harness chat.",
   "type": "module",
   "license": "MIT",
-  "author": "Felix Tessera",
+  "author": "saylordevs",
   "homepage": "https://github.com/saylordevs/dsh-plugin-token-cost#readme",
   "repository": {
     "type": "git",
