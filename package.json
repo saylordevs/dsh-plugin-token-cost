@@ -5,13 +5,13 @@
   "type": "module",
   "license": "MIT",
   "author": "Felix Tessera",
-  "homepage": "https://github.com/felix-tessera/dsh-plugin-token-cost#readme",
+  "homepage": "https://github.com/saylordevs/dsh-plugin-token-cost#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felix-tessera/dsh-plugin-token-cost.git"
+    "url": "git+https://github.com/saylordevs/dsh-plugin-token-cost.git"
   },
   "bugs": {
-    "url": "https://github.com/felix-tessera/dsh-plugin-token-cost/issues"
+    "url": "https://github.com/saylordevs/dsh-plugin-token-cost/issues"
   },
   "keywords": [
     "dsh-plugin",

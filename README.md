@@ -16,7 +16,7 @@ Through the plugin index, in **Plugins → Discover**: choose **Add index source
 and enter
 
 ```
-https://felix-tessera.github.io/dsh-plugin-token-cost/index.json
+https://saylordevs.github.io/dsh-plugin-token-cost/index.json
 ```
 
 then **Install** on the Turn cost card. The index pins an exact commit, so what
@@ -25,7 +25,7 @@ you install is what was reviewed.
 From a terminal, with the `dsh` CLI:
 
 ```sh
-dsh plugin --profile <profile> add github:felix-tessera/dsh-plugin-token-cost
+dsh plugin --profile <profile> add github:saylordevs/dsh-plugin-token-cost
 ```
 
 The bundle is plain JavaScript: there is no build step, no install script, and

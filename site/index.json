@@ -23,9 +23,9 @@
       },
       "icon": "icons/token-cost.svg",
       "author": "Felix Tessera",
-      "homepage": "https://github.com/felix-tessera/dsh-plugin-token-cost#readme",
+      "homepage": "https://github.com/saylordevs/dsh-plugin-token-cost#readme",
       "repository": {
-        "url": "https://github.com/felix-tessera/dsh-plugin-token-cost"
+        "url": "https://github.com/saylordevs/dsh-plugin-token-cost"
       },
       "metadata": {
         "category": "chat",
@@ -37,7 +37,7 @@
           "publishTimestamp": 1795291959,
           "source": {
             "type": "git",
-            "url": "https://github.com/felix-tessera/dsh-plugin-token-cost",
+            "url": "https://github.com/saylordevs/dsh-plugin-token-cost",
             "commit": "4ac0acb21e94e608172e5d9b2c98dd33cc2738ad"
           },
           "engines": { "dsh": ">=0.2.2-rc.5 <0.3.0" }
