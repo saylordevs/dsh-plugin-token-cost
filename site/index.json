@@ -18,8 +18,8 @@
       "name": "dsh-plugin-token-cost",
       "title": { "en": "Turn cost", "ru": "Стоимость ответа" },
       "description": {
-        "en": "Adds the estimated money cost of each completed answer to the Chat transcript. Click the line under an answer for the input, cached-input, and output breakdown with per-million rates, the model, and whether the peak or off-peak rate applied. Sends nothing anywhere and adds no model-visible content.",
-        "ru": "Добавляет в ленту чата оценку стоимости каждого готового ответа. Нажмите на строку под ответом, чтобы увидеть разбивку на ввод, ввод из кэша и вывод с ценой за миллион токенов, моделью и признаком пикового или непикового тарифа. Плагин ничего не отправляет наружу и не добавляет ничего видимого модели."
+        "en": "Shows what DeepSeek usage costs, in two places: the money line under every finished answer in the Chat flow, with a click-through per-bucket breakdown, and the account wallet plus the open session's spend in the sidebar footer. Figures come from the provider-reported usage of every billed request through the plugin's own session projection, priced per model and per instant, so the session figure covers the whole session rather than only what is on screen. Sends nothing anywhere and adds no model-visible content.",
+        "ru": "Показывает, во что обходится использование DeepSeek, в двух местах: строка стоимости под каждым готовым ответом в ленте с раскрывающейся разбивкой по видам токенов и кошелёк аккаунта со списанием открытой сессии в футере сайдбара. Цифры берутся из фактического расхода каждого оплаченного запроса через собственную проекцию сессии плагина и считаются по модели и по моменту запроса, поэтому сумма сессии покрывает всю сессию, а не только то, что на экране. Плагин ничего не отправляет наружу и не добавляет ничего видимого модели."
       },
       "icon": "icons/token-cost.svg",
       "author": "saylordevs",
@@ -32,6 +32,16 @@
         "sortKeys": { "github_stars": 0 }
       },
       "versions": [
+        {
+          "version": "1.1.0",
+          "publishTimestamp": 1795350235,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/saylordevs/dsh-plugin-token-cost",
+            "commit": "d02f30dff796c7ef66027ba5130dad78bc05a002"
+          },
+          "engines": { "dsh": ">=0.2.2-rc.5 <0.3.0" }
+        },
         {
           "version": "1.0.0",
           "publishTimestamp": 1795291959,
