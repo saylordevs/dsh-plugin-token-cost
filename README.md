@@ -16,7 +16,8 @@ Shows what DeepSeek usage costs, in two places:
 
 ## Install
 
-Requires DeepSeek Harness 0.2.2 or newer; 0.3.0 and later are not claimed yet.
+Requires DeepSeek Harness 0.2.2-rc.4 or newer; 0.3.0 and later are not claimed
+yet. It is built and tested on 0.2.2-rc.5.
 
 Through the plugin index, in **Plugins → Discover**: choose **Add index source**
 and enter
