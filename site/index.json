@@ -33,6 +33,16 @@
       },
       "versions": [
         {
+          "version": "1.1.1",
+          "publishTimestamp": 1795350658,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/saylordevs/dsh-plugin-token-cost",
+            "commit": "c2b1729008614b453056c7f71a99070285154dd8"
+          },
+          "engines": { "dsh": ">=0.2.2-rc.4 <0.3.0" }
+        },
+        {
           "version": "1.1.0",
           "publishTimestamp": 1795350235,
           "source": {
